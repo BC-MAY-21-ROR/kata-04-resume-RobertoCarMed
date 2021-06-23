@@ -58,12 +58,38 @@ educationcomplete:
     details: |
     
 
-- degree: Bachillerato Tecnico Analista Quimico
+  - degree: Bachillerato Tecnico Analista Quimico
     university: Universidad de Colima
     time: 2015 Oct - 2018 Jun
     details: |
 
+# Registra aquí tu experiencia. Agrega o elimina según sea necesario
+  
 
+# Registra aquí tus habilidades técnicas, para level utiliza:
+# 20% para Novice
+# 40% para Advanced beginner
+# 60% para Competent
+# 80% para Proficient
+# 100% para Expert
+skills:
+  title: Technical Skills # NO MODIFICAR
+
+  toolset:
+    - name: Javascript
+      level: 60%
+
+    - name: Node.js
+      level: 20%
+
+    - name: Ruby
+      level: 20%
+
+    - name: HTML5
+      level: 40%
+
+    - name: CSS
+      level: 20%
  
 # NO MODIFICAR
 footer: >

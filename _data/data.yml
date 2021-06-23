@@ -44,6 +44,25 @@ sidebar:
     - item: Frendly Personality
       link: # dejar en blanco
 
+# Registra aquí un resumen de tu perfil
+career-profile:
+  title: About Me # NO MODIFICAR
+  summary: |
+    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+
+# Registra aquí tus estudios. Agrega o elimina según sea necesario
+educationcomplete:
+  - degree: Ingenieria de Software
+    university: Universidad de Colima
+    time: 2018 Oct - current
+    details: |
+    
+
+- degree: Bachillerato Tecnico Analista Quimico
+    university: Universidad de Colima
+    time: 2015 Oct - 2018 Jun
+    details: |
+
 
  
 # NO MODIFICAR

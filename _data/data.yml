@@ -7,22 +7,17 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: Roberto Fausrino Carrasco Medina # Nombre completo
+  name: Roberto Faustino Carrasco Medina # Nombre completo
   tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
 
   # Actualiza tus datos de contacto
   email: betocarrasco3652@gmail.com
   phone: 3131137423
-  website: # No agregar http://
   linkedin: Roberto Carrasco
   github: RobertoCarMed
-  gitlab:
-  bitbucket:
   twitter: '@rcarrasco0'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars: RobertoCarMed
-  goodreads: # Number-Username, e.g. 123456-alandoe
 
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
@@ -69,7 +64,6 @@ educationcomplete:
     details: |
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
-experiences:
   
 
 # Registra aquí tus habilidades técnicas, para level utiliza:

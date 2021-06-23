@@ -11,6 +11,40 @@ sidebar:
   tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
 
+ # Actualiza tus datos de contacto
+  email: betocarrasco3652@gmail.com
+  phone: 313 1137423
+  linkedin: Roberto Carrasco
+  github: RobertoCarMed
+  twitter: '@rcarrasco0'
+  codewars: RobertoCarMed
+
+  # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
+  languages:
+    - idiom: English
+      level: Beginner # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+
+    - idiom: Spanish
+      level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+
+  # Registra aquí tus soft skills. Agrega o elimina según sea necesario
+  interests:
+    - item: Communication
+      link: # dejar en blanco
+
+    - item: Team Work
+      link: # dejar en blanco
+
+    - item: Time Management
+      link: # dejar en blanco
+
+    - item: Puntuality
+      link: # dejar en blanco
+  
+    - item: Frendly Personality
+      link: # dejar en blanco
+
+
  
 # NO MODIFICAR
 footer: >
